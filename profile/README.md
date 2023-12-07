@@ -4,6 +4,7 @@
 #### numba-mpi packages:
   [![PyPI version](https://badge.fury.io/py/numba-mpi.svg)](https://pypi.org/project/numba-mpi)
   [![Anaconda-Server Badge](https://anaconda.org/conda-forge/numba-mpi/badges/version.svg)](https://anaconda.org/conda-forge/numba-mpi)
+  [![AUR package](https://repology.org/badge/version-for-repo/aur/python:numba-mpi.svg)](https://aur.archlinux.org/packages/python-numba-mpi)
   
 #### numba-mpi API docs:
   [![numba-mpi docs](https://img.shields.io/badge/numba_mpi_docs-pdoc3-blue.svg)](https://numba-mpi.github.io/numba-mpi/)   
